@@ -1,12 +1,12 @@
 body {
-  background: #eee;
+  background:  #4c03f8;
 }
 
 #title, .subtitle, .post_title {
-  color: #blue;
+  color: #f10505;
 }
 
-.post_title (
+.post_title {
   font-size: 16px;
   font-style: italic;
 }
